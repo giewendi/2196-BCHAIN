@@ -1,2 +1,2 @@
 # 2196-BCHAIN
-This repository is for school purposes only.
+This repository is for our Blockchain Course.
